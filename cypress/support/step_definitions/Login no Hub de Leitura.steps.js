@@ -1,5 +1,9 @@
 import { Given, When, Then } from "@badeball/cypress-cucumber-preprocessor";
 
+afterEach(() => {
+        cy.screenshot()
+    });
+
 Given("que estou na página de login", () => {
     cy.visit("login.html");
 });
