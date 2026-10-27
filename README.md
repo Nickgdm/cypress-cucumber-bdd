@@ -3,7 +3,6 @@
 ║                              AUTOMAÇÃO BDD COM CYPRESS, CUCUMBER E GHERKIN                              ║
 ╚═════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
-
 Projeto de estudo para praticar cenários BDD escritos em Gherkin e sua integração com testes automatizados de interface.
 
 ## Sobre o projeto
@@ -83,11 +82,9 @@ A atividade permite praticar BDD, Gherkin e Cypress, estruturando comportamentos
 ## Considerações finais
 
 A execução de arquivos `.feature` exige integração entre Cucumber e Cypress. Confirme as dependências e os step definitions presentes no projeto antes de executar os testes.
-
 <pre>
 ╔═════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║  Este projeto foi desenvolvido como uma atividade facultativa no contexto dos estudos Quality Assurance ║
-║  (QA), durante a formação da EBAC — Escola Britânica de Artes Criativas e Tecnologia. Seu objetivo é    ║
-║  praticar e consolidar conhecimentos de automação com BDD, Gherkin e Cypress.                           ║
+║       Atividade desenvolvida durante a formação profissionalizante em Quality Assurance (QA) pela       ║
+║                     EBAC — Escola Britânica de Artes Criativas e Tecnologia                             ║
 ╚═════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
