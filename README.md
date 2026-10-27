@@ -92,5 +92,5 @@ A execução de arquivos `.feature` exige integração entre Cucumber e Cypress.
 ║ de Quality Assurance (QA), durante a formação da EBAC — Escola Britânica de Artes          ║
 ║ Criativas e Tecnologia. Seu objetivo é praticar e consolidar conhecimentos de automação    ║
 ║ com BDD, Gherkin e Cypress.                                                                ║
-╚════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
