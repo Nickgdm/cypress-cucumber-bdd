@@ -1,5 +1,10 @@
-╔══════════════════════════════════════════════════════╗
-## AUTOMAÇÃO BDD COM CYPRESS, CUCUMBER E GHERKIN        
+<pre>
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║            AUTOMAÇÃO BDD COM CYPRESS, CUCUMBER E GHERKIN                 ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+</pre>
 
 Projeto de estudo para praticar cenários BDD escritos em Gherkin e sua integração com testes automatizados de interface.
 
