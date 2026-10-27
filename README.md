@@ -1,9 +1,9 @@
 <pre>
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║            AUTOMAÇÃO BDD COM CYPRESS, CUCUMBER E GHERKIN                 ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                                 ║
+║                                          AUTOMAÇÃO BDD COM CYPRESS, CUCUMBER E GHERKIN                                          ║
+║                                                                                                                                 ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
 Projeto de estudo para praticar cenários BDD escritos em Gherkin e sua integração com testes automatizados de interface.
@@ -86,9 +86,10 @@ A atividade permite praticar BDD, Gherkin e Cypress, estruturando comportamentos
 
 A execução de arquivos `.feature` exige integração entre Cucumber e Cypress. Confirme as dependências e os step definitions presentes no projeto antes de executar os testes.
 
-
-## Formação e natureza da atividade
-
-Este projeto foi desenvolvido como uma **atividade facultativa** no contexto dos estudos de Quality Assurance (QA), durante a formação da EBAC — Escola Britânica de Artes Criativas e Tecnologia. Seu objetivo é praticar e consolidar conhecimentos de automação com BDD, Gherkin e Cypress.
-
-╚══════════════════════════════════════════════════════╝
+<pre>
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║   Este projeto foi desenvolvido como uma atividade facultativa no contexto dos estudos de Quality Assurance (QA), durante a     ║
+║   formação da EBAC — Escola Britânica de Artes Criativas e Tecnologia. Seu objetivo é praticar e consolidar conhecimentos de    ║
+║   automação com BDD, Gherkin e Cypress.                                                                                         ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+</pre>
