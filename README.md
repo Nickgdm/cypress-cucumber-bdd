@@ -87,10 +87,10 @@ A atividade permite praticar BDD, Gherkin e Cypress, estruturando comportamentos
 A execução de arquivos `.feature` exige integração entre Cucumber e Cypress. Confirme as dependências e os step definitions presentes no projeto antes de executar os testes.
 
 <pre>
-╔════════════════════════════════════════════════════════════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║ Este projeto foi desenvolvido como uma atividade facultativa no contexto dos estudos       ║
 ║ de Quality Assurance (QA), durante a formação da EBAC — Escola Britânica de Artes          ║
 ║ Criativas e Tecnologia. Seu objetivo é praticar e consolidar conhecimentos de automação    ║
 ║ com BDD, Gherkin e Cypress.                                                                ║
-╚════════════════════════════════════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
